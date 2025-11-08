@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "eating",
+    "amount": 256.0,
+    "category": "food",
+    "date": "2025-11-08"
+  },
+  {
+    "id": 2,
+    "description": "travelling",
+    "amount": 1000.0,
+    "category": "transport",
+    "date": "2025-11-11"
+  },
+  {
+    "id": 3,
+    "description": "shopping",
+    "amount": 200000.0,
+    "category": "shopping",
+    "date": "2025-11-26"
+  }
+]
